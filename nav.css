@@ -1,0 +1,33 @@
+.topnav {
+    background-color: rgb(53, 50, 50);
+    overflow: hidden;
+}
+
+.topnav a {
+    font-family: 'Courier New', Courier, monospace;
+    float: left;
+    color: rgb(244, 240, 235);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 19px;
+}
+
+/* Changes the color of links on hover */
+ .topnav a:hover {
+    background-color: rgb(237, 232, 218);
+    color: black;
+  }
+
+/* Add a color to the active/current link */
+    .topnav a.active {
+        background-color: rgb(237, 232, 218);
+        color: black;
+      }    
+
+
+
+
+  
+ 
+  
