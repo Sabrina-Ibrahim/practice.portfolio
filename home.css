@@ -1,0 +1,25 @@
+.body{
+    background-image: image('laptop');
+}
+
+.homeinfo h1 {
+    color: black;
+    font-size: 92px;
+    text-align:left;
+    text-indent: 6%;
+    font-family: math;
+}
+
+.homeinfo h2, h3 {
+    color: black;
+    font-size: 48px;
+    text-align:center;
+    font-family: math;
+    margin: auto;
+}
+
+.homeresponse{
+    color: black;
+    font-family: math;
+    margin-top: 75;
+}
