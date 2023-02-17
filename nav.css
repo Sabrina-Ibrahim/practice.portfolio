@@ -1,21 +1,27 @@
-.navbar {
-    background-color: rgb(53, 50, 50);
+.navbar ul {
     overflow: hidden;
     position: fixed;
+    right: 0;
+    left: 0;
     top: 0;
     width: 100%;
+    list-style: none;
+    text-align: right;
+}
+
+.navbar li {
+  display: inline-block;
 }
 
 .navbar a {
-    font-family: 'Courier New', Courier, monospace;
-    float: left;
+    font-family: system-ui;
+    float: right;
     color: rgb(244, 240, 235);
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    font-size: 19px;
+    font-size: 16px;
     display: block;
-    text-align: center;
 }
 
 /* Changes the color of links on hover */
