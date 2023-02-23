@@ -1,10 +1,6 @@
 /* Introduction Section */
 .introduction {
   height: 100vh;
-  background-image: url("photos/laptop-bg3\ copy.jpeg");
-  background-repeat: no-repeat;
-  box-sizing: border-box;
-  background-attachment: scroll;
 }
 
 .myname {
@@ -127,6 +123,7 @@ h1 span {
     text-indent: 0;
   }
 }
+
 
 /* About section */
 .about-info--bg-white{
